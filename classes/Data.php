@@ -9,7 +9,7 @@ class Data
         return [
             'pain' => 'bread',
             'nain de jardin' => 'garden gnome',
-            'ouef' => 'egg',
+            'œuf' => 'egg',
             'bouisson' => 'bush',
             'chapeau' => 'hat',
             'porte' => 'door',
