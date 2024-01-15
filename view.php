@@ -9,5 +9,10 @@
 </head>
 <body>
 	<!-- TODO: add a form for the user to play the game -->
+	<form method="POST">
+		<label for="inputTranslation">Translate this</label>
+		<input type="text" name="inputTranslation" id="inputTranslation">
+		<button type="submit">Submit Answer!</button>
+	</form>
 </body>
 </html>
